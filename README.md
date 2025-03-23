@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ebb189f0-f962-47f6-81f9-7dd67ce0b4db)
+![image](https://github.com/user-attachments/assets/fbb11b47-410e-46ea-b3fa-f8bbb8e903a5)
 
 결과 스크린샷 입니다.
 
