@@ -1,0 +1,26 @@
+# Visual Studio cache/temporary files
+.vs/
+ipch/
+*.ipch
+*.sdf
+*.opensdf
+*.pch
+*.pdb
+*.obj
+Debug/
+Release/
+*.exe
+*.dll
+*.lib
+*.exp
+*.log
+
+# Visual Studio project/solution user-specific files
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+
+# Others
+*.cache
+*.Directory.build.props
