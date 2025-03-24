@@ -6,3 +6,4 @@
 
 *.sln(솔루션) 파일을 Visual Studio에서 열고, Rebuild Solution을 실행하면 됩니다.
 별도 설치 없이 빌드가 가능합니다.
+gpt 참고했습니다.
